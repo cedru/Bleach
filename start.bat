@@ -1,3 +1,3 @@
-@TITLE ROLL OUT!
+@TITLE  -= BLEACH BOT =-
 node bot.js
 pause
